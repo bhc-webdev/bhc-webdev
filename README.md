@@ -1,4 +1,12 @@
-## Hi there 👋
+## Web Development at Dallas College
+
+At Dallas College, we are constantly updating the courses and skills taught to keep pace with this rapidly evolving field to ensure our students have the skills most in demand from industry.
+
+Students begin by learning basic and advanced page design and digital imaging techniques, then progress to more advanced skills such as client and server programming for form validation, user interaction and database driven websites. Students will learn skills for problem solving and working within groups.
+
+Getting started is quick and easy. Our experienced faculty and staff are here to help you be successful in this exciting field. We offer a two-year Associate of Applied Sciences (AAS) degree as well as shorter two or three semester certificates which you can earn on your way to the full AAS degree.
+
+All of the public repos are available for free use. Please use them with care as they are not created for comercial use. This is for educational purposes only.
 
 <!--
 **bhc-webdev/bhc-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
