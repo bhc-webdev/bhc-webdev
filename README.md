@@ -8,6 +8,8 @@ Getting started is quick and easy. Our experienced faculty and staff are here to
 
 All of the public repos are available for free use. Please use them with care as they are not created for comercial use. This is for educational purposes only.
 
+![Infographic depicting the partial curriculum path of the Web Development program at Dallas College.](/assets/images/WebDev-infographics-image-crop.png)
+
 <!--
 **bhc-webdev/bhc-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
