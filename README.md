@@ -1,10 +1,41 @@
-## Web Development at Dallas College
+# 👋 Hi, I’m Stephen Herd
 
-At Dallas College, we are constantly updating the courses and skills taught to keep pace with this rapidly evolving field to ensure our students have the skills most in demand from industry.
+I’m an educator, developer, and systems designer with more than three decades of experience building and teaching technical solutions that connect people, tools, and learning. My work bridges hands-on automotive education and modern web development — from early training systems for General Motors to custom learning-management platforms used in college-level web and programming courses.
 
-Students begin by learning basic and advanced page design and digital imaging techniques, then progress to more advanced skills such as client and server programming for form validation, user interaction and database driven websites. Students will learn skills for problem solving and working within groups.
+---
 
-Getting started is quick and easy. Our experienced faculty and staff are here to help you be successful in this exciting field. We offer a two-year Associate of Applied Sciences (AAS) degree as well as shorter two or three semester certificates which you can earn on your way to the full AAS degree.
+### 💡 What I Do
+- Design and build custom **learning management systems** using PHP, Laravel, Tailwind CSS, and MySQL  
+- Create **accessible, real-world instructional content** for web development and applied technology  
+- Integrate **AI-enhanced teaching methods** to help learners and educators work smarter  
+- Develop open-source **tools and resources** that make technical education more human and practical
+
+---
+
+### 🛠️ Technologies & Tools
+**Languages:** PHP, JavaScript, SQL, HTML, CSS  
+**Frameworks:** Laravel, Tailwind CSS, React (introductory), Bootstrap  
+**Tools:** VS Code, Git, GitHub, XAMPP, MySQL Workbench, Node.js  
+**Special Interests:** Accessibility, Open-Source Education, AI in Instructional Design
+
+---
+
+### 🚀 Current Project
+- **[My Web Training](https://mywebtraining.net):** A custom Laravel-based LMS delivering nine structured web development courses  
+
+---
+
+### 🌎 Connect
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sherd/)  
+- 💻 [My Web Training](https://mywebtraining.net)  
+- 🧰 [GitHub Repositories](https://github.com/bhc-webdev)  
+- ✉️ **webmaster@mywebtraining.net**
+
+---
+
+> “Technology should amplify human potential, not replace it.”  
+> — Stephen Herd
+
 
 All of the public repos are available for free use. Please use them with care as they are not created for comercial use. This is for educational purposes only.
 
