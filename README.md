@@ -28,7 +28,7 @@ I’m an educator, developer, and systems designer with more than three decades 
 ### 🌎 Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sherd/)  
 - 💻 [My Web Training](https://mywebtraining.net)  
-- 🧰 [GitHub Repositories](https://github.com/bhc-webdev)  
+- 🧰 [GitHub Repositories](https://github.com/mywebtraining)  
 - ✉️ **webmaster@mywebtraining.net**
 
 ---
